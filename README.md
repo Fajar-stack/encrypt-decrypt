@@ -5,3 +5,6 @@ The Advanced Encryption Standard (AES), also known by its original name Rijndael
 
 In cryptography, the Polybius square, also known as the Polybius checkerboard, is a device invented by the Ancient Greeks Cleoxenus and Democleitus, and perfected by the Ancient Greek historian and scholar Polybius,[1] for fractionating plaintext characters so that they can be represented by a smaller set of symbols.
 
+To start programming in language python you must install package for encrypt/decrypt
+
+$ sudo pip install pycrypto 
